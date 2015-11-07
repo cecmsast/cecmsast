@@ -29,7 +29,7 @@
 - 110620106.UP3
 - 110700102.zip
 - 110700109.UP3
-- **nothing<< 3d printing**
+- **110713302.UP3<< 3d printing**
 
 ###提交失败列表
 - 110222103.UP3 with 103112103.UP3 before
