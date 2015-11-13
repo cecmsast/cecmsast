@@ -34,7 +34,7 @@
 - 110722125.rar
 - 110812103.UP3
 - 110815138.UP3
-- **nothing<< 3d printing**
+- **111215123.zip<< 3d printing**
 
 ###提交失败列表
 - 110222103.UP3 with 103112103.UP3 before
